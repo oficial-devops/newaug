@@ -1,4 +1,3 @@
 hello
 welcome ajay
-java
-john
+
